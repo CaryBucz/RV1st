@@ -13,7 +13,7 @@ In the mockup linked below, you'll find a simple, static chat log. We'd like you
 ## Guidelines
 This repository is yours to make your own. We ask that you work in the **development** branch and only use the **master** branch in the final submission step (see below for instructions on submitting the project). Other than that, feel free to configure your directories and workflows how ever you work best.
 
-**Try to avoid using any libraries or frameworks in your code.** This assessment is designed to showcase your code. We want to see as much of it as possible in this project!
+We are assessing your skills in HTML, CSS, and JavaScript. You can use libraries and/or frameworks for this project. *However, we expect you to justify why you used them.* This assessment is designed to showcase your code. We want to see as much of it as possible in this project!
 
 A compiler/build process is not necessary, but if you do use one, please include a `/dist` directory in your final submission. We'd like to be able to boot up your project without installing any dependencies.
 
